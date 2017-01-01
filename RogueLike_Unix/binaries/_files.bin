@@ -1,0 +1,11 @@
+char_choice1 binaries/cchoice1.bin
+char_choice2 binaries/cchoice2.bin
+intro_0 binaries/intro0.bin
+intro_1 binaries/intro1.bin
+intro_2 binaries/intro2.bin
+intro_3 binaries/intro3.bin
+intro_4 binaries/intro4.bin
+intro_5 binaries/intro5.bin
+intro_6 binaries/intro6.bin
+intro_7 binaries/intro7.bin
+main_menu binaries/menu.bin
